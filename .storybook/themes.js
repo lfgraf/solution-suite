@@ -32,7 +32,7 @@ export const light = create({
   inputTextColor: tokens.KsTextColorInterfaceInteractiveBase,
   inputBorderRadius: tokens.KsBorderRadiusControl,
 
-  brandTitle: "Your kickstartDS Storybook",
-  brandUrl: "https://www.kickstartDS.com",
-  brandImage: "/logo.svg",
+  brandTitle: "Solution Suite",
+  brandUrl: "https://www.curbcutos.com",
+  brandImage: "/logo.png",
 });
